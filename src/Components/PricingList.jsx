@@ -7,7 +7,6 @@ import { check } from "../assets";
 
 
 
-
 const PricingList = () => {
   return (
     <div className="flex gap-[1rem] max-lg:flex-wrap">
