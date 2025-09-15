@@ -16,7 +16,6 @@ import CompanyLogo from "./CompanyLogo";
 
 
 
-
 const Hero = () => {
   const parallaxRef = useRef(null);
   return (
