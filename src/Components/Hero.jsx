@@ -9,6 +9,22 @@ import Genrating from "./Genrating";
 import Notificition from "./Notificition";
 import CompanyLogo from "./CompanyLogo";
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const Hero = () => {
   const parallaxRef = useRef(null);
   return (
