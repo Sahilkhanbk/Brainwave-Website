@@ -7,7 +7,6 @@ import {LeftCurve, RightCurve} from './design/Collaboration'
 
 
 
-
 const Collaboration = () => {
   return (
     <Section crosses>
