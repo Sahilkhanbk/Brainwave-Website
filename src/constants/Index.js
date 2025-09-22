@@ -12,7 +12,6 @@ import {
 
 
 
-
   
   figma,
   file02,
