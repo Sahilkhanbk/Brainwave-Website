@@ -10,7 +10,6 @@ import {
   discordBlack,
   facebook,
 
-
   
   figma,
   file02,
