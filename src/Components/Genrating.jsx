@@ -1,6 +1,5 @@
 import { loading } from "../assets";
 
-
 const Genrating = ({ className }) => {
   return (
     <div
