@@ -11,6 +11,11 @@ const Genrating = ({ className }) => {
       Ai is generating
     </div>
   );
+
+
+
+
+  
 };
 
 export default Genrating;
